@@ -1,0 +1,12 @@
+{
+  "name": "iconfont-to-vue",
+  "version": "0.0.1",
+  "main": "bin/iconfont-to-vue.js",
+  "bin": {
+    "iconfont-to-vue": "bin/iconfont-to-vue.js",
+    "itv": "bin/iconfont-to-vue.js"
+  },
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
+}
