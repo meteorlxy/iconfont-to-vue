@@ -1,6 +1,7 @@
 {
   "name": "iconfont-to-vue",
   "version": "0.0.1",
+  "license": "MIT",
   "main": "bin/iconfont-to-vue.js",
   "bin": {
     "iconfont-to-vue": "bin/iconfont-to-vue.js",
